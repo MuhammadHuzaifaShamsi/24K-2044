@@ -1,0 +1,66 @@
+Pseudo Code
+Task 2
+
+Start
+// Input/Output
+INPUT num1
+INPUT num2
+INPUT num3
+
+// Process Steps
+SET sum to num1 – (- num2) – (- num3);
+
+PRINT the sum;
+END
+
+
+
+Task 3
+
+START
+
+// Input/Output
+INPUT num1
+INPUT num2
+INPUT operator
+
+// Process Steps
+IF operator == “+” THEN
+	PRINT num1 + num2;
+ELSE IF operator == “-” THEN
+PRINT num1 – num2;
+ELSE
+	PRINT “Invalid operator! Operation failed…”;
+
+END
+
+
+
+
+ 
+
+
+Algorithm
+Task 1
+1.	Ask the user to enter the number they want to check as a divisor – `num` (e.g. 4).
+2.	Ask the user to enter the number they want to check the divisor for – `n` (e.g. 16).
+3.	Check if `num` is a divisor of `n` using the modulo operator: `n % num == 0` (e.g. 16 % 4 == 0).
+4.	IF `n % num == 0`, THEN:
+a.	Check if num is even or odd by using the modulo operator: `num % 2 == 0` (e.g. 4 % 2 == 0).
+b.	IF `num % 2 == 0`, THEN display that “the num is an even number”.
+c.	ELSE display that “the num is an odd number”.
+5.	ELSE display that “the num is not a divisor of n”.
+6.	End.
+
+Task 3
+1.	Ask user to enter first number – `num1` (e.g. 3).
+2.	Ask user to enter the second number – `num2` (e.g. 5).
+3.	Ask user which action they want to perform from these: +, -, *, / and % (e.g. *).
+4.	Use the conditional statement to perform operations based on the user’s choice:
+a.	IF `+`, THEN `answer = num1 + num2`.
+b.	IF `-`, THEN `answer = num1 – num2 `.
+c.	IF `*`, THEN `answer = num1 * num2`.
+d.	IF `/`, THEN `answer = num1 / num2`.
+e.	IF `%`, THEN `answer = num1 % num2`.
+5.	Print the answer.
+6.	End.
