@@ -1,7 +1,7 @@
 # Hey there
 ## My name is Muhammad Huzaifa
 
-01 ![SS of code](https://img.freepik.com/free-vector/hand-drawn-devops-illustration_23-2149398796.jpgt=st=1725170339~exp=1725173939~hmac=63e5316b90a33a648c0953e989a049d333d26ec0097679390818e90d37ed647e&w=740)
+01 ![img](https://img.freepik.com/free-vector/hand-drawn-devops-illustration_23-2149398796.jpg)
 
 
 1. I am a student at FAST-NUCES Karachi
